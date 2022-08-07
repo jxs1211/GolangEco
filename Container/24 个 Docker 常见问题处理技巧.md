@@ -8,8 +8,6 @@ https://mp.weixin.qq.com/s/4wXILTP7fIbZZTgPMYNFYw
 转自：Escapelife 的博客 原文：https://tinyurl.com/2p89skum
 ```
 
-
-
 ## 1Docker 迁移存储目录
 
 > **默认情况系统会将 Docker 容器存放在 /var/lib/docker 目录下**
