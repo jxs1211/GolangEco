@@ -18,6 +18,8 @@
 
 - 深入剖析Kubernetes https://book.douban.com/subject/35424872/
 
+- Kubernetes权威指南
+
 - Kubernetes In Action https://book.douban.com/subject/26997846/
 
 - Programming Kubernetes https://book.douban.com/subject/33393681/
